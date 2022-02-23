@@ -1,6 +1,6 @@
 **Hi! 👋
 I'm Sayan Majumdar
-a Web Developer & IT Consultant
+a Web Developer & IT Consultant.
 I build websites, provide advice and sell digital products.
 I have 5 years of tech experience, creating solutons while providing IT services.**
 
